@@ -20,6 +20,7 @@ Built using HTML, CSS, and JavaScript with a focus on responsive design and slee
 - 🎨 Minimal and aesthetic UI
 - 📱 Fully responsive design
 - ⚡ Instant generation on click
+- 📋 Copy-to-clipboard functionality 
 
 ---
 
